@@ -54,10 +54,10 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RubenMMPS&show_icons=true&theme=radical" alt="Estadísticas de RubenMMPS" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenMMPS&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+<div align="center">
+ <img src="https://github-readme-stats.shion.dev/api?username=RubenMMPS&theme=vue&hide_border=false&include_all_commits=false&count_private=true" />
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RubenMMPS&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 ---
 
