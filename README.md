@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+## Mi Stack Tecnológico
 
 ### Frontend & Estilos
 <p align="left">
@@ -52,7 +52,7 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
  <img src="https://github-readme-stats.shion.dev/api?username=RubenMMPS&theme=vue&hide_border=false&include_all_commits=false&count_private=true" />
@@ -61,7 +61,8 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 
 ---
 
-## 📫 Cómo contactarme
+## Cómo contactarme
 
-* 📧 Email: [rmartinmotilla@gmail.com]
-* 💼 GitHub: https://github.com/RubenMMPS
+* Email: [rmartinmotilla@gmail.com]
+* GitHub: https://github.com/RubenMMPS
+* Linkedin: https://www.linkedin.com/in/rub%C3%A9n-mart%C3%ADn-motilla-614248391/
