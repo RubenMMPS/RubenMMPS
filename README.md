@@ -9,6 +9,7 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 ## Mi Stack Tecnológico
 
 ### Frontend & Estilos
+
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,6 +24,7 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 </p>
 
 ### Backend & Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -33,11 +35,17 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 </p>
 
 ### AI & Agents (LLMs)
+
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge&logo=chroma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-grey?style=for-the-badge&logo=chroma&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=black" />
 </p>
 
@@ -45,6 +53,7 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 > Actualmente trabajando con **LangGraph** para orquestación de agentes y **Model Context Protocol (MCP)** para extender las capacidades de los LLMs.
 
 ### Herramientas
+
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -63,6 +72,6 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 
 ## Cómo contactarme
 
-* Email: [rmartinmotilla@gmail.com]
+* Email: [[rmartinmotilla@gmail.com](mailto:rmartinmotilla@gmail.com)]
 * GitHub: https://github.com/RubenMMPS
 * Linkedin: https://www.linkedin.com/in/rub%C3%A9n-mart%C3%ADn-motilla-614248391/
