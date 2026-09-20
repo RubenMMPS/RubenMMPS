@@ -64,8 +64,15 @@ Soy un desarrollador apasionado por crear soluciones web robustas y escalables, 
 ## Estadísticas de GitHub
 
 <div align="center">
- <img src="https://github-readme-stats.shion.dev/api?username=RubenMMPS&theme=vue&hide_border=false&include_all_commits=false&count_private=true" />
- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RubenMMPS&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenMMPS&theme=tokyonight)](https://github.com/RubenMMPS)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RubenMMPS&theme=tokyonight)](https://github.com/RubenMMPS)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenMMPS&theme=tokyonight)](https://github.com/RubenMMPS)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenMMPS&theme=tokyonight)](https://github.com/RubenMMPS)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RubenMMPS&theme=tokyonight&utcOffset=1)](https://github.com/RubenMMPS)
+
 </div>
 
 ---
